@@ -15,7 +15,7 @@ Now building **Forge**, a TypeScript CLI for a repository: inspect the tree, rea
 
 ## Start Here
 
-- 🔨 **Forge** — Inspect a repo, read a file, search the code. `forge inspect`, `forge read`, `forge search`.
+- 🔨 **[Forge](https://github.com/camilogaon/forge)** — Inspect a repo, read a file, search the code. `forge inspect`, `forge read`, `forge search`.
 - 🏛️ **[Samaniego property tax](https://camilogaon.online)** — The municipal tax code, turned into software clerks use in production.
 - 🏢 **[ISWO](https://www.iswo.com.co/)** — Quality and HSEQ software. I shipped product work and a support assistant inside the app.
 
@@ -23,7 +23,7 @@ Now building **Forge**, a TypeScript CLI for a repository: inspect the tree, rea
 
 ### Tools
 
-- 🔨 **Forge** — TypeScript CLI, MIT, v0.1.0. `inspect` walks a directory, `read` prints a source file, `search` finds a text query. Next cut: ask a question about the repository and get an answer from the code. The repo is still local.
+- 🔨 **[Forge](https://github.com/camilogaon/forge)** — TypeScript CLI, MIT, v0.1.0. `inspect` walks a directory, `read` prints a source file, `search` finds a text query. Next cut: ask a question about the repository and get an answer from the code. The repo is still local.
 
 ### Systems in production
 
